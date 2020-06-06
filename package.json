@@ -1,0 +1,11 @@
+{
+  "name": "ejemplo-mongodb-nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto de Ejemplo que usa las librerias de conexion de mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
